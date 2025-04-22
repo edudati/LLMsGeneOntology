@@ -1,0 +1,9 @@
+gene,function
+ABCB7,"ABCB7 is a mitochondrial transporter protein crucial for iron homeostasis within the cell, specifically within the mitochondria.  It's involved in the export of iron-sulfur cluster precursors from the mitochondria to the cytosol.  These precursors are essential for the biosynthesis of iron-sulfur clusters, which are vital cofactors for numerous proteins involved in crucial cellular processes, including:
+
+* **Cellular respiration:** Iron-sulfur clusters are key components of the electron transport chain, which generates energy for the cell.
+* **DNA synthesis and repair:** Several enzymes involved in DNA replication and repair utilize iron-sulfur clusters.
+* **Ribosome biogenesis:** Iron-sulfur clusters play a role in the assembly of ribosomes, the protein synthesis machinery of the cell.
+
+Defects in ABCB7 function can lead to mitochondrial iron overload and deficiencies in iron-sulfur cluster biogenesis. This can result in various diseases, most notably X-linked sideroblastic anemia with ataxia"
+ABCD1,"The ABCD1 gene provides instructions for making a protein called the **adrenoleukodystrophy protein (ALDP)**.  ALDP is a transporter protein located in the peroxisome membrane. Its primary function is to **transport very long chain fatty acids (VLCFAs)** into the peroxisome for degradation.  Without proper ALDP function, VLCFAs accumulate in the body, particularly in the brain and adrenal glands, leading to the severe neurological dysfunction seen in X-linked adrenoleukodystrophy (X-ALD)."
