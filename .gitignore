@@ -30,3 +30,6 @@ pip-delete-this-directory.txt
 # Arquivos de sistema
 Thumbs.db
 ehthumbs.db
+
+#chaves
+keys/
